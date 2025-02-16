@@ -1,0 +1,8 @@
+.app-wrapper{
+  width: 70vw;
+}
+@media only screen and (max-width: 800px) {
+  .app-wrapper{
+    width: 100vw;
+  }
+}

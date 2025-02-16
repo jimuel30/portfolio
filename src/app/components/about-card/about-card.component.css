@@ -1,0 +1,26 @@
+.about-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Action Man", serif;
+  width: 100%;
+  font-weight: bolder;
+  color: white;
+}
+.about-card button{
+  padding: 10px 20px;
+  background-color:white;
+  color: black;
+  font-weight: bolder;
+  border-radius: 4px;
+  font-family: "Action Man", serif;
+  cursor: pointer;
+
+
+}
+
+
+.image-box{
+  width: 30%;
+}
